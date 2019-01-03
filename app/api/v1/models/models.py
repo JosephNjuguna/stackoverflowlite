@@ -56,4 +56,3 @@ class Question():
 		if not single_quiz:
 			return "Question id not found"
 		quiz.remove(single_quiz[0])
-
